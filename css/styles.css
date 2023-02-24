@@ -1,0 +1,19 @@
+.progress-bar {
+    background-color:  rgb(102,16,242);
+}
+
+.update-txt {
+    background-color:  rgb(102,16,242);
+    color: aliceblue;
+}
+.navbar {
+    background-color: rgb(102,16,242);
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.faq-txt {
+    text-align: center;
+}
