@@ -17,3 +17,8 @@
 .faq-txt {
     text-align: center;
 }
+
+.txtsh {
+    color: white;
+  text-shadow: 3px 3px 20px #000000;
+}
